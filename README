@@ -1,0 +1,2 @@
+The program that creates a generator of tuples from pairs of <character - number>, then displays the generator itself and the tuples.
+Also in the code are multiple iterable objects to select for combining
